@@ -1,0 +1,73 @@
+﻿@section scripts 
+{
+    <script type="text/javascript" src="~/Scripts/site/uiManager.js?<%=DateTime.Now.Ticks.ToString()%>"></script>
+}
+<div class="col-sm-3"></div>
+<div class="col-sm-6">
+    @if (!Request.IsAuthenticated)
+    {
+            <!-- If the user is not authenticated, display the sign-in button -->
+        <label class="full-width">
+            <span class="login-emblem-container">
+                <span class="login-emblem">
+                    <span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+                    Sign In
+                </span>
+            </span>
+            <input type="button" style="display: none;" onclick="location.href='@Url.Action("SignIn", "Home")'">
+        </label>
+    }
+    else
+    {
+        if (!string.IsNullOrWhiteSpace(Request.QueryString["errormessage"]))
+        {
+            <div style="background-color:red;color:white;font-weight: bold;">Error: @Request.QueryString["errormessage"]</div>
+        }
+        else
+        {
+            <div class="tool-panel panel box-shadow">
+                <div class="panel-body">
+                    <div class="faded">
+                        <span class="pull-left" style="padding:6px 0">Hey there, @Session["USER"]!</span>
+                        <label class="btn btn-default pull-right" style="border:none;">
+                            <span class="glyphicon glyphicon-cog faded" aria-hidden="true"></span>
+                            <span class="faded">Preferences</span>
+                            <input type="button" style="display: none;" onclick="location.href='@Url.Action("Preferences", "Home")'">
+                        </label>
+                        <label class="btn btn-default pull-right" style="border:none;">
+                            <span class="glyphicon glyphicon-user faded" aria-hidden="true"></span>
+                            <span class="faded">Sign Out</span>
+                            <input type="button" style="display: none;" onclick="location.href='@Url.Action("SignOut", "Home")'">
+                        </label>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    @using (Html.BeginForm("ImportExcelFromFile", "Schedule", FormMethod.Post, new { id = "sheetSelectFromFile", enctype = "multipart/form-data" }))
+                    {
+                        <label id="schedule-upload-fromFile" class="full-width btn btn-default buffer-bottom">
+                            <span class="glyphicon glyphicon-upload" aria-hidden="true"></span>
+                            <span class="btn-label pull-left">Select Course Schedule From File (.xsls, .xsl)</span>
+                            <input type="file" name="sheetFile" style="display: none;" accept=".xlsx,.xls">
+                        </label>
+                        <label id="schedule-generate" class="full-width btn btn-info buffer-bottom" style="display:none;">
+                            <span class="glyphicon glyphicon-download" aria-hidden="true"></span>
+                            <span class="btn-label pull-left">Generate Exam Schedule</span>
+                            <input type="submit" style="display: none;">
+                        </label>
+                    }
+                    <label class="full-width btn btn-default buffer-bottom">
+                        <span class="glyphicon glyphicon-upload" aria-hidden="true"></span>
+                        <span class="btn-label pull-left">Select Course Schedule From Drive</span>
+                        <input type="button" style="display: none;" onclick="location.href='@Url.Action("DriveSelect", "Home")'">
+                    </label>
+                    <label id="btnHistory" class="full-width btn btn-default buffer-bottom">
+                        <span class="glyphicon glyphicon-th-list" aria-hidden="true"></span>
+                        <span class="btn-label pull-left">Generation History</span>
+                        <input type="button" style="display: none;"  onclick="location.href='@Url.Action("History", "Home")'">
+                    </label>
+                </div>
+            </div>
+        }
+    }
+</div>
+<div class="col-sm-3"></div>

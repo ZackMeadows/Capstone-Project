@@ -1,0 +1,110 @@
+﻿html, body, .body-content {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.buffer-bottom {
+    margin-bottom:5px !important;
+}
+.full-width {
+    width: 100%;
+}
+/*-----------------------------*/
+/* Custom */
+/*-----------------------------*/
+
+.app-background {
+    background-color: #32628c;
+}
+
+.login-emblem-container {
+    border-radius: 100%;
+    border: 15px solid #80a3c1;
+    width: 130px;
+    height: 130px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: #80a3c1;
+    font-weight: bold;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+    .login-emblem-container:hover {
+        border-color: white;
+        color: white;
+    }
+
+.login-emblem {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+}
+
+.login-emblem .glyphicon{
+    font-size:4.5em;
+    width:100%;
+    text-align:center;
+}
+
+.logo-container {
+    text-align: center;
+    color: white;
+    font-size: 300%;
+    font-weight: bold;
+    margin-bottom:30%;
+}
+
+.faded{
+    color:#aaa;
+}
+
+.tool-panel {
+    margin: 0 3em;
+}
+
+div .box-shadow {
+    box-shadow: rgba(0,0,0,0.5) 5px 5px 5px;
+}
+div .text-shadow {
+    text-shadow: rgba(0,0,0,0.5) 5px 5px 5px;
+}
+
+.btn-label {
+    display: block;
+    width: 90%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.btn-login {
+    font-size: 1.2em !important;
+}
+/*-----------------------------*/

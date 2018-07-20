@@ -1,0 +1,1726 @@
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\ApplicationInsights.config
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Capstone.dll.config
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Capstone.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Capstone.pdb
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Win32.Primitives.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\netstandard.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.AppContext.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Collections.Concurrent.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Collections.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Collections.NonGeneric.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Collections.Specialized.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.ComponentModel.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.ComponentModel.Primitives.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Console.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Data.Common.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.Contracts.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.Debug.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.Process.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.StackTrace.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.Tools.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.TraceSource.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.Tracing.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Drawing.Primitives.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Dynamic.Runtime.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Globalization.Calendars.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Globalization.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Globalization.Extensions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.Compression.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.Compression.ZipFile.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.FileSystem.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.IsolatedStorage.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.Pipes.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Linq.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Linq.Expressions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Linq.Parallel.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Linq.Queryable.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.Http.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.NameResolution.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.NetworkInformation.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.Ping.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.Primitives.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.Requests.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.Security.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.Sockets.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.WebHeaderCollection.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.WebSockets.Client.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.WebSockets.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.ObjectModel.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Reflection.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Reflection.Extensions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Reflection.Primitives.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Resources.Reader.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Resources.ResourceManager.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Resources.Writer.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.Extensions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.Handles.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.InteropServices.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.Numerics.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.Serialization.Json.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Security.Claims.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Security.Cryptography.Csp.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Security.Principal.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Security.SecureString.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Text.Encoding.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Text.Encoding.Extensions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Text.RegularExpressions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Threading.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Threading.Overlapped.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Threading.Tasks.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Threading.Thread.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Threading.ThreadPool.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Threading.Timer.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.ValueTuple.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Xml.ReaderWriter.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Xml.XDocument.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Xml.XmlDocument.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Xml.XmlSerializer.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Xml.XPath.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Xml.XPath.XDocument.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Antlr3.Runtime.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.Web.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Options.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Newtonsoft.Json.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Owin.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Buffers.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.Http.Formatting.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Numerics.Vectors.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Security.Principal.Windows.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Text.Encodings.Web.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Helpers.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Http.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Http.WebHost.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Mvc.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Optimization.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Razor.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.WebPages.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.WebPages.Razor.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\WebGrease.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Options.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Newtonsoft.Json.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Buffers.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Numerics.Vectors.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Text.Encodings.Web.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Helpers.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Mvc.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Optimization.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Razor.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.WebPages.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.WebPages.Razor.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Antlr3.Runtime.pdb
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Net.Http.Formatting.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Http.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\System.Web.Http.WebHost.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\bin\Microsoft.AI.Web.xml
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\obj\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\obj\Debug\Capstone.dll
+C:\Users\bpaquette6801\Desktop\New folder (2)\Capstone\Capstone\obj\Debug\Capstone.pdb
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\ApplicationInsights.config
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Capstone.dll.config
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Capstone.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Capstone.pdb
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Win32.Primitives.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\netstandard.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.AppContext.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Collections.Concurrent.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Collections.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Collections.NonGeneric.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Collections.Specialized.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.ComponentModel.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.ComponentModel.Primitives.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Console.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Data.Common.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Contracts.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Debug.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Process.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.StackTrace.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tools.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.TraceSource.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tracing.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Drawing.Primitives.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Dynamic.Runtime.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Globalization.Calendars.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Globalization.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Globalization.Extensions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.Compression.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.Compression.ZipFile.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.IsolatedStorage.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.Pipes.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Linq.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Linq.Expressions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Linq.Parallel.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Linq.Queryable.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.Http.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.NameResolution.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.NetworkInformation.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.Ping.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.Primitives.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.Requests.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.Security.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.Sockets.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.WebHeaderCollection.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.Client.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.ObjectModel.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Reflection.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Reflection.Extensions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Reflection.Primitives.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Resources.Reader.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Resources.ResourceManager.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Resources.Writer.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Extensions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Handles.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Numerics.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Json.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Security.Claims.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Csp.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Security.Principal.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Security.SecureString.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Text.Encoding.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Text.Encoding.Extensions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Text.RegularExpressions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Threading.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Threading.Overlapped.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Threading.Thread.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Threading.ThreadPool.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Threading.Timer.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.ValueTuple.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Xml.ReaderWriter.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Xml.XDocument.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Xml.XmlDocument.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Xml.XmlSerializer.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Xml.XPath.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Xml.XPath.XDocument.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Graph.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Identity.Client.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Owin.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Buffers.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Security.Principal.Windows.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Helpers.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Http.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Mvc.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Optimization.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Razor.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\WebGrease.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Hyak.Common.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Graph.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Buffers.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Helpers.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Mvc.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Optimization.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Razor.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.pdb
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Http.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.xml
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\obj\Debug\Capstone.dll
+C:\Users\b_paquette\Desktop\capstone\Capstone\Capstone\Capstone\obj\Debug\Capstone.pdb
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\ApplicationInsights.config
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Capstone.dll.config
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Capstone.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Capstone.pdb
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\netstandard.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.AppContext.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.Concurrent.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.NonGeneric.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.Specialized.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Console.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Data.Common.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Contracts.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Debug.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Process.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tools.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tracing.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Drawing.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Dynamic.Runtime.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Globalization.Calendars.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Globalization.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Globalization.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Compression.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.IsolatedStorage.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Pipes.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.Expressions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.Parallel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.Queryable.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Http.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.NameResolution.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.NetworkInformation.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Ping.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Requests.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Security.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Sockets.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.Client.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.ObjectModel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Reflection.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Reflection.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Reflection.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Resources.Reader.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Resources.ResourceManager.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Resources.Writer.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Handles.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Numerics.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Claims.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Principal.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Security.SecureString.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encoding.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Text.RegularExpressions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Overlapped.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Thread.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.ThreadPool.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Timer.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.ValueTuple.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.ReaderWriter.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XDocument.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XmlDocument.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XmlSerializer.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XPath.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Identity.Client.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Owin.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Buffers.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Principal.Windows.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Helpers.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Mvc.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Optimization.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Razor.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\WebGrease.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Hyak.Common.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Buffers.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Helpers.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Mvc.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Optimization.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Razor.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.pdb
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.pdb
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\ApplicationInsights.config
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Capstone.dll.config
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Capstone.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Capstone.pdb
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Win32.Primitives.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\netstandard.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.AppContext.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.Concurrent.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.NonGeneric.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.Specialized.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.Primitives.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Console.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Data.Common.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Contracts.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Debug.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Process.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.StackTrace.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tools.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.TraceSource.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tracing.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Drawing.Primitives.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Dynamic.Runtime.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Globalization.Calendars.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Globalization.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Globalization.Extensions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Compression.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Compression.ZipFile.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.IsolatedStorage.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Pipes.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.Expressions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.Parallel.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.Queryable.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Http.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.NameResolution.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.NetworkInformation.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Ping.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Primitives.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Requests.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Security.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Sockets.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.WebHeaderCollection.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.Client.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.ObjectModel.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Reflection.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Reflection.Extensions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Reflection.Primitives.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Resources.Reader.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Resources.ResourceManager.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Resources.Writer.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Extensions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Handles.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Numerics.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Json.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Claims.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Csp.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Principal.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Security.SecureString.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encoding.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encoding.Extensions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Text.RegularExpressions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Overlapped.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Thread.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.ThreadPool.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Timer.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.ValueTuple.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.ReaderWriter.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XDocument.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XmlDocument.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XmlSerializer.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XPath.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XPath.XDocument.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Identity.Client.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Owin.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Buffers.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Principal.Windows.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Helpers.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Mvc.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Optimization.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Razor.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\WebGrease.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Hyak.Common.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Buffers.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Helpers.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Mvc.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Optimization.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Razor.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.pdb
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.xml
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.dll
+C:\Users\zmeadows2626\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.pdb
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\ApplicationInsights.config
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Capstone.dll.config
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Capstone.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Capstone.pdb
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\netstandard.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.AppContext.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.Concurrent.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.NonGeneric.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Collections.Specialized.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.Primitives.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Console.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Data.Common.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Contracts.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Debug.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Process.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tools.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tracing.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Drawing.Primitives.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Dynamic.Runtime.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Globalization.Calendars.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Globalization.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Globalization.Extensions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Compression.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.IsolatedStorage.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Pipes.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.Expressions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.Parallel.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Linq.Queryable.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Http.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.NameResolution.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.NetworkInformation.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Ping.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Primitives.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Requests.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Security.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Sockets.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.Client.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.ObjectModel.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Reflection.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Reflection.Extensions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Reflection.Primitives.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Resources.Reader.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Resources.ResourceManager.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Resources.Writer.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Extensions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Handles.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Numerics.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Claims.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Principal.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Security.SecureString.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encoding.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Text.RegularExpressions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Overlapped.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Thread.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.ThreadPool.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Timer.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.ValueTuple.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.ReaderWriter.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XDocument.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XmlDocument.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XmlSerializer.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XPath.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Identity.Client.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Owin.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Buffers.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Security.Principal.Windows.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\WebGrease.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Hyak.Common.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Buffers.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Optimization.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.csproj.CopyComplete
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.dll
+C:\Users\Alex\Desktop\Capstone\Capstone\Capstone\obj\Debug\Capstone.pdb
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\ClosedXML.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\DocumentFormat.OpenXml.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\ExcelNumberFormat.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\FastMember.Signed.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\System.IO.Packaging.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\ClosedXML.pdb
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\ClosedXML.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\DocumentFormat.OpenXml.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\bin\ExcelNumberFormat.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\ApplicationInsights.config
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Capstone.dll.config
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Capstone.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Capstone.pdb
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\netstandard.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.AppContext.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Collections.Concurrent.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Collections.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Collections.NonGeneric.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Collections.Specialized.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.ComponentModel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.ComponentModel.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Console.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Data.Common.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Contracts.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Debug.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Process.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tools.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.Tracing.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Drawing.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Dynamic.Runtime.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Globalization.Calendars.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Globalization.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Globalization.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.Compression.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.IsolatedStorage.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.Pipes.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Linq.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Linq.Expressions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Linq.Parallel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Linq.Queryable.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.Http.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.NameResolution.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.NetworkInformation.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.Ping.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.Requests.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.Security.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.Sockets.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.Client.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.WebSockets.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.ObjectModel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Reflection.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Reflection.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Reflection.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Resources.Reader.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Resources.ResourceManager.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Resources.Writer.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Handles.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Numerics.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Security.Claims.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Security.Principal.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Security.SecureString.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Text.Encoding.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Text.RegularExpressions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Threading.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Threading.Overlapped.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Threading.Thread.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Threading.ThreadPool.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Threading.Timer.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.ValueTuple.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Xml.ReaderWriter.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Xml.XDocument.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Xml.XmlDocument.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Xml.XmlSerializer.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Xml.XPath.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\ClosedXML.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\DocumentFormat.OpenXml.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\ExcelNumberFormat.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\FastMember.Signed.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Graph.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Identity.Client.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Owin.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Buffers.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IO.Packaging.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Security.Principal.Windows.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Helpers.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Http.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Mvc.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Optimization.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Razor.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\WebGrease.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Hyak.Common.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\ClosedXML.pdb
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\ClosedXML.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\DocumentFormat.OpenXml.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\ExcelNumberFormat.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Graph.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Graph.Core.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Newtonsoft.Json.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Buffers.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Numerics.Vectors.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Text.Encodings.Web.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Helpers.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Mvc.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Optimization.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Razor.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Antlr3.Runtime.pdb
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Net.Http.Formatting.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Http.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\System.Web.Http.WebHost.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\bin\Microsoft.AI.Web.xml
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\obj\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\obj\Debug\Capstone.dll
+C:\Users\Aiko\Desktop\Capstone\Capstone\Capstone\Capstone\obj\Debug\Capstone.pdb

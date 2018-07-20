@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Scheduletron</title>
+        <link href="~/Content/Site.css" rel="stylesheet">
+        @Styles.Render("~/Content/bootstrap.css")
+        @Scripts.Render("~/bundles/modernizr")
+</head>
+<body class="app-background">
+    <div class="body-content container">
+        <div class="row" style="height:200px;">
+            <div class="logo-container text-shadow" style="cursor:pointer;" onclick="location.href='@Url.Action("Index", "Home")'">
+                <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Exam Scheduletron
+            </div>
+        </div>
+        <div class="row">
+            @RenderBody()
+        </div>
+    </div>
+            @Scripts.Render("~/bundles/jquery")
+            @Scripts.Render("~/bundles/bootstrap")
+            @RenderSection("scripts", required: false)
+</body>
+</html>

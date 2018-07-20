@@ -1,0 +1,43 @@
+﻿@section scripts
+{
+    <script type="text/javascript" src="~/Scripts/site/uiManager.js?<%=DateTime.Now.Ticks.ToString()%>"></script>
+}
+<div class="col-sm-1"></div>
+<div class="col-sm-12">
+    <div class="tool-panel panel box-shadow">
+        <div class="panel-body">
+            <h3 class="faded">Exam Generation History</h3>
+            <div style="overflow-y: scroll; max-height:500px;">
+                <table class="table-condensed table-striped full-width scro">
+                    <tr>
+                        <th>Source File</th>
+                        <th>Exam Generated</th>
+                        <th>Date Generated</th>
+                        @*<th>Calendar Link</th>*@
+                        <th>User</th>
+                    </tr>
+                    <!--LOOP FOR ALL RECORDS-->
+                    @foreach (var history in ViewBag.HistoryList)
+                    {
+                    <tr>
+                        <td><a target="_blank" href="@history.FileURL">@history.FileName</a></td>
+                        <td><a target="_blank" href="@history.ExamURL">@history.ExamFileName</a></td>
+                        <td>@history.GenDate</td>
+                        @*<td>@history.CalendarURL</td>*@
+                        <td>@history.User</td>
+                    </tr>
+                    }
+                    <!---->
+                </table>
+            </div>
+            <hr />
+            <label class="btn btn-default pull-right faded" style="border:none;">
+                <span class="faded">Return</span>
+                <span class="glyphicon glyphicon-chevron-right faded" aria-hidden="true"></span>
+                <input type="button" style="display: none;" onclick="location.href='@Url.Action("Index", "Home")'">
+            </label>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-1"></div>

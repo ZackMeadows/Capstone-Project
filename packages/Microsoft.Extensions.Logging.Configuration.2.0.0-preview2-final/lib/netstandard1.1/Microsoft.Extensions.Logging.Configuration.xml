@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Extensions.Logging.Configuration</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Extensions.Logging.LoggingBuilderExtensions">
+            <summary>
+            Extension methods for setting up logging services in an <see cref="T:Microsoft.Extensions.Logging.ILoggingBuilder" />.
+            </summary>
+        </member>
+    </members>
+</doc>

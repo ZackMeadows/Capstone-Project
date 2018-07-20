@@ -1,0 +1,49 @@
+﻿@section scripts
+{
+    <script type="text/javascript" src="~/Scripts/site/uiManager.js?<%=DateTime.Now.Ticks.ToString()%>"></script>
+}
+<div class="col-sm-2"></div>
+<div class="col-sm-8">
+    <div class="tool-panel panel box-shadow">
+        <div class="panel-body">
+            <h3 class="faded">User Preferences</h3>
+            <hr />
+            @using (Html.BeginForm("SavePreferences", "Home", FormMethod.Post, new { id = "userPreferences", enctype = "multipart/form-data" }))
+            {
+                <label class="btn btn-info pull-right faded">
+                    <span>Save Changes</span>
+                    <input type="submit" style="display: none;">
+                </label>
+                <label id="lblUploadDirectory">
+                    <span>Course Sheet Drive Directory</span>
+                    <input type="text" class="form-control" name="uploadDir" value="@ViewBag.uploadDir" placeholder="/Exam Scheduler/Uploads">
+                </label>
+                <br />
+                <label id="lblExamDirectory">
+                    <span>Exam Sheet Drive Directory</span>
+                    <input type="text" class="form-control" name="examDir" value="@ViewBag.examDir" placeholder="/Exam Scheduler/Uploads">
+                </label>
+                <br>
+                @*<label id="lblCalendarGen">
+                    <span>Generate Calendar View?</span>
+                    @if(@ViewBag.calgen == "True")
+                    {
+                    <input type="checkbox" class="form-control" name="calGen" value="true" checked>
+                    }
+                    else
+                    {
+                    <input type="checkbox" class="form-control" name="calGen" value="true">
+                    }
+                </label>*@
+            }
+            <hr />
+            <label class="btn btn-default pull-right faded" style="border:none;">
+                <span class="faded">Return</span>
+                <span class="glyphicon glyphicon-chevron-right faded" aria-hidden="true"></span>
+                <input type="button" style="display: none;" onclick="location.href='@Url.Action("Index", "Home")'">
+            </label>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-2"></div>

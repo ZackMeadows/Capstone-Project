@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.AspNetCore.Server.Kestrel.Https</name>
+    </assembly>
+    <members>
+        <member name="F:Microsoft.Extensions.Internal.TaskCache.CompletedTask">
+            <summary>
+            A <see cref="T:System.Threading.Tasks.Task"/> that's already completed successfully.
+            </summary>
+            <remarks>
+            We're caching this in a static readonly field to make it more inlinable and avoid the volatile lookup done
+            by <c>Task.CompletedTask</c>.
+            </remarks>
+        </member>
+        <member name="P:Microsoft.Extensions.Internal.TaskCache`1.DefaultCompletedTask">
+            <summary>
+            Gets a completed <see cref="T:System.Threading.Tasks.Task"/> with the value of <c>default(T)</c>.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNetCore.Server.Kestrel.Https.HttpsStrings.AuthenticationFailed">
+            <summary>
+            Failed to authenticate HTTPS connection.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Server.Kestrel.Https.HttpsStrings.FormatAuthenticationFailed">
+            <summary>
+            Failed to authenticate HTTPS connection.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNetCore.Server.Kestrel.Https.HttpsStrings.ServiceCertificateRequired">
+            <summary>
+            The server certificate parameter is required.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Server.Kestrel.Https.HttpsStrings.FormatServiceCertificateRequired">
+            <summary>
+            The server certificate parameter is required.
+            </summary>
+        </member>
+        <member name="T:Microsoft.AspNetCore.Hosting.ListenOptionsHttpsExtensions">
+            <summary>
+            Extension methods fro <see cref="T:Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions"/> that configure Kestrel to use HTTPS for a given endpoint.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Hosting.ListenOptionsHttpsExtensions.UseHttps(Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions,System.String)">
+            <summary>
+            Configure Kestrel to use HTTPS.
+            </summary>
+            <param name="listenOptions">
+            The <see cref="T:Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions"/> to configure.
+            </param>
+            <param name="fileName">
+            The name of a certificate file, relative to the directory that contains the application content files.
+            </param>
+            <returns>
+            The <see cref="T:Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions"/>.
+            </returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Hosting.ListenOptionsHttpsExtensions.UseHttps(Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions,System.String,System.String)">
+            <summary>
+            Configure Kestrel to use HTTPS.
+            </summary>
+            <param name="listenOptions">
+            The <see cref="T:Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions"/> to configure.
+            </param>
+            <param name="fileName">
+            The name of a certificate file, relative to the directory that contains the application content files.
+            </param>
+            <param name="password">
+            The password required to access the X.509 certificate data.
+            </param>
+            <returns>
+            The <see cref="T:Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions"/>.
+            </returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Hosting.ListenOptionsHttpsExtensions.UseHttps(Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions,System.Security.Cryptography.X509Certificates.X509Certificate2)">
+            <summary>
+            Configure Kestrel to use HTTPS.
+            </summary>
+            <param name="listenOptions">
+            The <see cref="T:Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions"/> to configure.
+            </param>
+            <param name="serverCertificate">
+            The X.509 certificate.
+            </param>
+            <returns>
+            The <see cref="T:Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions"/>.
+            </returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Hosting.ListenOptionsHttpsExtensions.UseHttps(Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions,Microsoft.AspNetCore.Server.Kestrel.Https.HttpsConnectionAdapterOptions)">
+            <summary>
+            Configure Kestrel to use HTTPS.
+            </summary>
+            <param name="listenOptions">
+            The <see cref="T:Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions"/> to configure.
+            </param>
+            <param name="httpsOptions">
+            Options to configure HTTPS.
+            </param>
+            <returns>
+            The <see cref="T:Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions"/>.
+            </returns>
+        </member>
+    </members>
+</doc>

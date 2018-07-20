@@ -1,0 +1,44 @@
+﻿@model Microsoft.Graph.DriveItem
+
+@{
+
+                ViewBag.Title = "OneDriveUpload";
+}
+
+<h2>OneDriveUpload</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Weburl
+        </th>
+        <th>
+            content
+        </th>
+    </tr>
+
+
+    
+    <tr>
+        <td>
+            @Model.Name
+        </td>
+        <td>
+            @Model.WebUrl
+        </td>
+        <td>
+            <a href=@Model.Content>test</a>
+        </td>
+        <td>
+            @Model.Content
+        </td>
+
+
+    </tr>
+    
+
+
+</table>
